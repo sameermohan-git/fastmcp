@@ -1,0 +1,3 @@
+# requirements.txt for FastMCP FastAPI server
+fastapi
+uvicorn
